@@ -1,0 +1,6 @@
+framework module CCDemo {
+  umbrella header "CCDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

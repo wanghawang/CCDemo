@@ -1,0 +1,16 @@
+PODS:
+  - CCDemo (0.1.0)
+
+DEPENDENCIES:
+  - CCDemo (from `../`)
+
+EXTERNAL SOURCES:
+  CCDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCDemo: 4a1d9dc2b9c64c46e006e8fb1f276c2520a07699
+
+PODFILE CHECKSUM: 2ccc7989bdb6b742ac9db87d68d3c7297c562171
+
+COCOAPODS: 1.9.3

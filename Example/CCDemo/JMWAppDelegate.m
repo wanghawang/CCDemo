@@ -7,12 +7,13 @@
 //
 
 #import "JMWAppDelegate.h"
+#import <Person.h>
 
 @implementation JMWAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    [Person run];
     return YES;
 }
 
